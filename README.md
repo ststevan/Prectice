@@ -1,2 +1,2 @@
-# Prectice
+# Practice
 Excersise
